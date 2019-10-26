@@ -83,7 +83,7 @@ public class Rough {
     G1.add(rb1); 
     G1.add(rb2);
     
-    f.setBounds(500, 200, 491, 480);
+    f.setBounds(500, 250, 491, 480);
     f.add(b);
     f.setResizable(false);
     f.setLayout(null);
