@@ -41,7 +41,7 @@ public class Rough {
     
     
     Rough(){
-    im=new ImageIcon("/home/hksingh4343/Documents/backmain.png");  //image
+    im=new ImageIcon("/home/premnathdey/Documents/backmain.png");  //image
     background = new JLabel("",im,JLabel.CENTER); //image
     rb1 = new JRadioButton(); 
     rb2 = new JRadioButton(); 
@@ -83,7 +83,7 @@ public class Rough {
     G1.add(rb1); 
     G1.add(rb2);
     
-    f.setBounds(500, 200, 491, 480);
+    f.setBounds(500, 250, 491, 480);
     f.add(b);
     f.setResizable(false);
     f.setLayout(null);
