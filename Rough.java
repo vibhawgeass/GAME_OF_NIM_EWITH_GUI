@@ -41,7 +41,7 @@ public class Rough {
     
     
     Rough(){
-    im=new ImageIcon("/home/hksingh4343/Documents/backmain.png");  //image
+    im=new ImageIcon("/home/premnathdey/Documents/backmain.png");  //image
     background = new JLabel("",im,JLabel.CENTER); //image
     rb1 = new JRadioButton(); 
     rb2 = new JRadioButton(); 
